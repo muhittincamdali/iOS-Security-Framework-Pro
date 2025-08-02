@@ -14,7 +14,7 @@
 
 **Bank-Level iOS Security Framework - Enterprise-Grade Security for iOS Applications**
 
-[🔐 Demo](#demo) • [🚀 Quick Start](#quick-start) • [📚 Documentation](#documentation) • [🤝 Contributing](#contributing) • [📄 License](#license)
+[🚀 Quick Start](#quick-start) • [📚 Documentation](#documentation) • [🤝 Contributing](#contributing) • [📄 License](#license)
 
 </div>
 
@@ -119,18 +119,6 @@ class SecurityManager {
     }
 }
 ```
-
----
-
-## 📱 Demo
-
-<div align="center">
-
-![Security Demo](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Security+Framework+Demo+GIF)
-
-**🎬 [Watch Live Demo](https://muhittincamdali.github.io/iOS-Security-Framework-Pro)**
-
-</div>
 
 ---
 
@@ -515,12 +503,12 @@ class SecurityFrameworkTests: XCTestCase {
 ## 📚 Documentation
 
 ### 📖 Comprehensive Documentation
-- [🚀 Getting Started](Documentation/GettingStarted.md)
-- [🔐 Security Guide](Documentation/Security.md)
-- [🌐 Network Security](Documentation/NetworkSecurity.md)
-- [🔑 Authentication](Documentation/Authentication.md)
-- [🔒 Encryption](Documentation/Encryption.md)
-- [🧪 Testing](Documentation/Testing.md)
+- [🚀 Getting Started](Documentation/GettingStarted/README.md)
+- [🔐 Security Guide](Documentation/Security/README.md)
+- [🌐 Network Security](Documentation/Network/README.md)
+- [🔑 Authentication](Documentation/Authentication/README.md)
+- [🔒 Encryption](Documentation/Encryption/README.md)
+- [🧪 Testing](Documentation/Testing/README.md)
 
 ---
 
