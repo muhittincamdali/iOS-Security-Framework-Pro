@@ -132,9 +132,34 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ---
 
+## 📊 Project Statistics
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Security-Framework-Pro?style=social)](https://github.com/muhittincamdali/iOS-Security-Framework-Pro/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Security-Framework-Pro?style=social)](https://github.com/muhittincamdali/iOS-Security-Framework-Pro/network)
+[![GitHub issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Security-Framework-Pro)](https://github.com/muhittincamdali/iOS-Security-Framework-Pro/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Security-Framework-Pro)](https://github.com/muhittincamdali/iOS-Security-Framework-Pro/pulls)
+
+</div>
+
+## 🌟 Stargazers
+
+[![Stargazers repo roster for @muhittincamdali/iOS-Security-Framework-Pro](https://reporoster.com/stars/muhittincamdali/iOS-Security-Framework-Pro)](https://github.com/muhittincamdali/iOS-Security-Framework-Pro/stargazers)
+
+## 🙏 Acknowledgments
+
+- Apple for the excellent iOS security APIs
+- The Swift community for inspiration and feedback
+- All contributors who help improve this framework
+- Security best practices and standards
+- Cryptography and encryption techniques
+
 ## 📄 License
 
 MIT License. See [LICENSE](LICENSE).
+
+**⭐ Star this repository if it helped you!**
 
 ---
 
@@ -144,4 +169,4 @@ MIT License. See [LICENSE](LICENSE).
 
 ---
 
-> **iOS Security Framework Pro** is built to the highest standards. For details, see [GLOBAL_AI_STANDARDS.txt](GLOBAL_AI_STANDARDS.txt). 
+> **iOS Security Framework Pro** is built to the highest professional standards. 
