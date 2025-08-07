@@ -959,11 +959,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-![GitHub Stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=star&logoColor=gold&color=gold&label=Stars)
-![GitHub Forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=git&logoColor=white&color=blue&label=Forks)
-![GitHub Issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=red&label=Issues)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=green&label=PRs)
-![GitHub License](https://img.shields.io/github/license/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=purple&label=License)
+![GitHub Stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=star&logoColor=gold&color=gold&label=Stars&cacheSeconds=3600)
+![GitHub Forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=git&logoColor=white&color=blue&label=Forks&cacheSeconds=3600)
+![GitHub Issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=red&label=Issues&cacheSeconds=3600)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=green&label=PRs&cacheSeconds=3600)
+![GitHub License](https://img.shields.io/github/license/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=purple&label=License&cacheSeconds=3600)
 
 </div>
 
