@@ -9,7 +9,6 @@
 ![Biometric](https://img.shields.io/badge/Biometric-Auth-FF5722?style=for-the-badge)
 ![Encryption](https://img.shields.io/badge/Encryption-AES256-4CAF50?style=for-the-badge)
 ![Keychain](https://img.shields.io/badge/Keychain-Secure-2196F3?style=for-the-badge)
-![Network](https://img.shields.io/badge/Network-SSL%2FTLS-00BCD4?style=for-the-badge)
 ![Threat Detection](https://img.shields.io/badge/Threat-Detection-FF9800?style=for-the-badge)
 ![Audit Logging](https://img.shields.io/badge/Audit-Logging-9C27B0?style=for-the-badge)
 ![Compliance](https://img.shields.io/badge/Compliance-GDPR%2FHIPAA-607D8B?style=for-the-badge)
@@ -167,10 +166,8 @@
 
 ### 🌐 Network Security
 
-* **SSL/TLS Pinning**: Certificate and public key pinning for secure connections
 * **JWT Authentication**: JSON Web Token authentication and validation
 * **OAuth2 Support**: OAuth2 authentication flow implementation
-* **Rate Limiting**: Intelligent rate limiting and request throttling
 * **DDoS Protection**: Distributed Denial of Service protection
 * **API Security**: Secure API authentication and authorization
 * **Certificate Validation**: Comprehensive certificate validation
@@ -301,7 +298,6 @@ Documentation/
 
 #### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/muhittincamdali/iOS-Security-Framework-Pro.git
 cd iOS-Security-Framework-Pro
 ```
 
@@ -350,7 +346,6 @@ Add the framework to your project:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/muhittincamdali/iOS-Security-Framework-Pro.git", from: "1.0.0")
 ]
 ```
 
@@ -635,10 +630,8 @@ let hardwareKey = try hardwareEncryption.generateKeyWithAcceleration(
 
 ## 🌐 Network Security
 
-### SSL/TLS Pinning
 
 ```swift
-// SSL/TLS pinning manager
 let sslPinningManager = SSLPinningManager()
 
 // Configure pinning settings
@@ -764,24 +757,19 @@ if suspiciousActivity.isSuspicious {
 
 ```swift
 // Audit logging manager
-let auditLogger = AuditLoggingManager()
 
 // Configure audit logging
-let auditConfig = AuditLoggingConfiguration()
 auditConfig.enableComprehensiveLogging = true
 auditConfig.logRetentionDays = 365
-auditConfig.encryptLogs = true
 auditConfig.enableRealTimeAlerts = true
 
 // Log security events
-auditLogger.logEvent(
     type: .authentication,
     severity: .info,
     message: "User authenticated successfully",
     metadata: ["user_id": "123", "method": "biometric"]
 )
 
-auditLogger.logEvent(
     type: .threat_detected,
     severity: .high,
     message: "Brute force attack detected",
@@ -789,11 +777,8 @@ auditLogger.logEvent(
 )
 
 // Generate compliance reports
-let gdprReport = try auditLogger.generateGDPRReport()
-let hipaaReport = try auditLogger.generateHIPAAReport()
 
 // Export audit logs
-let exportedLogs = try auditLogger.exportLogs(
     format: .json,
     dateRange: DateInterval(start: Date().addingTimeInterval(-86400), duration: 86400)
 )
@@ -880,7 +865,6 @@ Comprehensive API documentation is available for all public interfaces:
 * [Encryption API](Documentation/EncryptionAPI.md) - Encryption and decryption
 * [Network Security API](Documentation/NetworkSecurityAPI.md) - Network security features
 * [Threat Detection API](Documentation/ThreatDetectionAPI.md) - Threat detection and monitoring
-* [Audit Logging API](Documentation/AuditLoggingAPI.md) - Audit logging and compliance
 * [Performance API](Documentation/PerformanceAPI.md) - Performance monitoring and optimization
 
 ### Security Guides
@@ -959,11 +943,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-![GitHub Stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=star&logoColor=gold&color=gold&label=Stars&cacheSeconds=3600)
-![GitHub Forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=git&logoColor=white&color=blue&label=Forks&cacheSeconds=3600)
-![GitHub Issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=red&label=Issues&cacheSeconds=3600)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=green&label=PRs&cacheSeconds=3600)
-![GitHub License](https://img.shields.io/github/license/muhittincamdali/iOS-Security-Framework-Pro?style=for-the-badge&logo=github&logoColor=white&color=purple&label=License&cacheSeconds=3600)
 
 </div>
 
@@ -980,7 +959,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 Stargazers Community
 
-[![Stargazers repo roster for @muhittincamdali/iOS-Security-Framework-Pro](https://reporoster.com/stars/muhittincamdali/iOS-Security-Framework-Pro)](https://github.com/muhittincamdali/iOS-Security-Framework-Pro/stargazers)
 
 **⭐ Star this repository if it helped you!**
 
