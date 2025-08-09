@@ -1,5 +1,38 @@
 # 🔐 Security Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [🔐 Security Guide](#-security-guide)
+- [📋 Table of Contents](#-table-of-contents)
+- [🏗️ Security Architecture](#-security-architecture)
+  - [Multi-Layer Security Model](#multi-layer-security-model)
+  - [Security Components](#security-components)
+- [🔑 Authentication](#-authentication)
+  - [Biometric Authentication](#biometric-authentication)
+  - [Multi-Factor Authentication](#multi-factor-authentication)
+- [🛡️ Data Protection](#-data-protection)
+  - [Keychain Security](#keychain-security)
+  - [Encryption Strategies](#encryption-strategies)
+- [🌐 Network Security](#-network-security)
+  - [Certificate Pinning](#certificate-pinning)
+  - [SSL/TLS Configuration](#ssltls-configuration)
+- [🚨 Threat Detection](#-threat-detection)
+  - [Behavioral Analysis](#behavioral-analysis)
+  - [Real-time Monitoring](#real-time-monitoring)
+- [📋 Compliance](#-compliance)
+  - [GDPR Compliance](#gdpr-compliance)
+  - [HIPAA Compliance](#hipaa-compliance)
+- [🎯 Security Best Practices](#-security-best-practices)
+  - [1. Defense in Depth](#1-defense-in-depth)
+  - [2. Principle of Least Privilege](#2-principle-of-least-privilege)
+  - [3. Secure by Default](#3-secure-by-default)
+- [🔧 Security Testing](#-security-testing)
+  - [Penetration Testing](#penetration-testing)
+- [📊 Security Metrics](#-security-metrics)
+  - [Key Performance Indicators](#key-performance-indicators)
+<!-- TOC END -->
+
+
 Comprehensive security guide for iOS Security Framework Pro, covering advanced security features, best practices, and implementation strategies.
 
 ## 📋 Table of Contents

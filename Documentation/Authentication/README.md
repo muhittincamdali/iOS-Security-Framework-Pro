@@ -1,5 +1,37 @@
 # 🔑 Authentication Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [🔑 Authentication Guide](#-authentication-guide)
+- [📋 Table of Contents](#-table-of-contents)
+- [🔐 Authentication Overview](#-authentication-overview)
+  - [Authentication Methods](#authentication-methods)
+  - [Authentication Components](#authentication-components)
+- [👤 Biometric Authentication](#-biometric-authentication)
+  - [Basic Biometric Setup](#basic-biometric-setup)
+  - [Advanced Biometric Features](#advanced-biometric-features)
+  - [Biometric Error Handling](#biometric-error-handling)
+- [🔐 Multi-Factor Authentication](#-multi-factor-authentication)
+  - [Basic MFA Implementation](#basic-mfa-implementation)
+  - [TOTP Authentication](#totp-authentication)
+  - [Hardware Security Key](#hardware-security-key)
+- [🎫 Token Management](#-token-management)
+  - [JWT Token Management](#jwt-token-management)
+  - [OAuth2 Token Management](#oauth2-token-management)
+- [🔄 Session Management](#-session-management)
+  - [Secure Session Handling](#secure-session-handling)
+  - [Session Analytics](#session-analytics)
+- [🎯 Authentication Best Practices](#-authentication-best-practices)
+  - [1. Secure Authentication Flow](#1-secure-authentication-flow)
+  - [2. Rate Limiting](#2-rate-limiting)
+  - [3. Audit Logging](#3-audit-logging)
+- [🔧 Authentication Testing](#-authentication-testing)
+  - [Authentication Testing](#authentication-testing)
+- [📊 Authentication Metrics](#-authentication-metrics)
+  - [Key Performance Indicators](#key-performance-indicators)
+<!-- TOC END -->
+
+
 Comprehensive guide for implementing authentication features in iOS Security Framework Pro, covering biometric authentication, multi-factor authentication, and secure user verification.
 
 ## 📋 Table of Contents

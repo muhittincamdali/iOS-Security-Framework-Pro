@@ -1,5 +1,35 @@
 # 🔐 Encryption Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [🔐 Encryption Guide](#-encryption-guide)
+- [📋 Table of Contents](#-table-of-contents)
+- [🔒 Encryption Overview](#-encryption-overview)
+  - [Encryption Types](#encryption-types)
+  - [Encryption Components](#encryption-components)
+- [🔐 Symmetric Encryption](#-symmetric-encryption)
+  - [AES Encryption](#aes-encryption)
+  - [ChaCha20 Encryption](#chacha20-encryption)
+- [🔑 Asymmetric Encryption](#-asymmetric-encryption)
+  - [RSA Encryption](#rsa-encryption)
+  - [Key Pair Generation](#key-pair-generation)
+- [🔐 Key Management](#-key-management)
+  - [Secure Key Generation](#secure-key-generation)
+  - [Key Storage](#key-storage)
+- [🛡️ Data Protection](#-data-protection)
+  - [Data Classification](#data-classification)
+  - [File Encryption](#file-encryption)
+- [🎯 Encryption Best Practices](#-encryption-best-practices)
+  - [1. Use Strong Algorithms](#1-use-strong-algorithms)
+  - [2. Secure Key Management](#2-secure-key-management)
+  - [3. Data Integrity](#3-data-integrity)
+- [🔧 Encryption Testing](#-encryption-testing)
+  - [Encryption Testing](#encryption-testing)
+- [📊 Encryption Metrics](#-encryption-metrics)
+  - [Key Performance Indicators](#key-performance-indicators)
+<!-- TOC END -->
+
+
 Comprehensive guide for implementing encryption features in iOS Security Framework Pro, covering various encryption algorithms, key management, and secure data handling.
 
 ## 📋 Table of Contents

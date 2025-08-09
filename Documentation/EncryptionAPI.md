@@ -1,5 +1,36 @@
 # 🔒 Encryption API
 
+<!-- TOC START -->
+## Table of Contents
+- [🔒 Encryption API](#-encryption-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [EncryptionManager](#encryptionmanager)
+  - [AdvancedEncryptionManager](#advancedencryptionmanager)
+- [API Reference](#api-reference)
+  - [Basic Encryption](#basic-encryption)
+  - [Advanced Encryption](#advanced-encryption)
+  - [Hybrid Encryption](#hybrid-encryption)
+  - [Hardware Acceleration](#hardware-acceleration)
+- [Encryption Algorithms](#encryption-algorithms)
+  - [Supported Algorithms](#supported-algorithms)
+  - [Algorithm Selection](#algorithm-selection)
+- [Key Management](#key-management)
+  - [Key Generation](#key-generation)
+  - [Key Storage](#key-storage)
+- [Performance Optimization](#performance-optimization)
+  - [Performance Monitoring](#performance-monitoring)
+  - [Optimization Techniques](#optimization-techniques)
+- [Security Best Practices](#security-best-practices)
+  - [Encryption Best Practices](#encryption-best-practices)
+  - [Implementation Guidelines](#implementation-guidelines)
+- [Error Handling](#error-handling)
+  - [Comprehensive Error Handling](#comprehensive-error-handling)
+- [Testing](#testing)
+  - [Encryption Testing](#encryption-testing)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Encryption API provides comprehensive encryption and decryption capabilities for iOS applications. This API supports multiple encryption algorithms, hardware acceleration, and secure key management.

@@ -1,5 +1,19 @@
 # Biometric Examples
 
+<!-- TOC START -->
+## Table of Contents
+- [Biometric Examples](#biometric-examples)
+- [Examples](#examples)
+- [Biometric Authentication Features](#biometric-authentication-features)
+  - [Face ID Integration](#face-id-integration)
+  - [Touch ID Integration](#touch-id-integration)
+  - [Authentication Policies](#authentication-policies)
+  - [Fallback Mechanisms](#fallback-mechanisms)
+- [Requirements](#requirements)
+- [Usage](#usage)
+<!-- TOC END -->
+
+
 This directory contains comprehensive examples demonstrating iOS Security Framework Pro biometric authentication features.
 
 ## Examples

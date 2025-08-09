@@ -1,5 +1,44 @@
 # 🚀 Getting Started with iOS Security Framework Pro
 
+<!-- TOC START -->
+## Table of Contents
+- [🚀 Getting Started with iOS Security Framework Pro](#-getting-started-with-ios-security-framework-pro)
+- [📋 Table of Contents](#-table-of-contents)
+- [🔧 Requirements](#-requirements)
+  - [System Requirements](#system-requirements)
+  - [Dependencies](#dependencies)
+- [📦 Installation](#-installation)
+  - [Swift Package Manager (Recommended)](#swift-package-manager-recommended)
+  - [Manual Installation](#manual-installation)
+- [⚡ Quick Start](#-quick-start)
+  - [1. Basic Setup](#1-basic-setup)
+  - [2. Biometric Authentication](#2-biometric-authentication)
+  - [3. Secure Data Storage](#3-secure-data-storage)
+  - [4. Data Encryption](#4-data-encryption)
+- [🔐 Basic Usage](#-basic-usage)
+  - [Biometric Authentication](#biometric-authentication)
+  - [Keychain Management](#keychain-management)
+  - [Encryption Services](#encryption-services)
+- [🛡️ Advanced Features](#-advanced-features)
+  - [Network Security](#network-security)
+  - [Threat Detection](#threat-detection)
+  - [Security Audit Logging](#security-audit-logging)
+- [🎯 Best Practices](#-best-practices)
+  - [1. Security Configuration](#1-security-configuration)
+  - [2. Error Handling](#2-error-handling)
+  - [3. Data Protection](#3-data-protection)
+  - [4. Network Security](#4-network-security)
+- [🔧 Troubleshooting](#-troubleshooting)
+  - [Common Issues](#common-issues)
+    - [1. Biometric Authentication Not Available](#1-biometric-authentication-not-available)
+    - [2. Keychain Access Issues](#2-keychain-access-issues)
+    - [3. Encryption Errors](#3-encryption-errors)
+  - [Debug Information](#debug-information)
+- [📚 Next Steps](#-next-steps)
+- [🤝 Support](#-support)
+<!-- TOC END -->
+
+
 Welcome to the comprehensive guide for getting started with iOS Security Framework Pro. This guide will walk you through the installation, setup, and basic usage of our enterprise-grade security framework.
 
 ## 📋 Table of Contents

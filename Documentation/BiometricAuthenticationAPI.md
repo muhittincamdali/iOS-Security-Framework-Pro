@@ -1,5 +1,25 @@
 # 🔐 Biometric Authentication API
 
+<!-- TOC START -->
+## Table of Contents
+- [🔐 Biometric Authentication API](#-biometric-authentication-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [BiometricAuthenticator](#biometricauthenticator)
+  - [AdvancedBiometricAuthenticator](#advancedbiometricauthenticator)
+- [API Reference](#api-reference)
+  - [Basic Authentication](#basic-authentication)
+  - [Advanced Authentication](#advanced-authentication)
+  - [Security Levels](#security-levels)
+- [Authentication Policies](#authentication-policies)
+  - [Policy Configuration](#policy-configuration)
+  - [Security Levels](#security-levels)
+- [Error Handling](#error-handling)
+- [Accessibility Support](#accessibility-support)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Biometric Authentication API provides secure biometric authentication using Face ID and Touch ID. This API supports advanced authentication policies, fallback mechanisms, and accessibility features.

@@ -1,5 +1,29 @@
 # 🌐 Network Security API
 
+<!-- TOC START -->
+## Table of Contents
+- [🌐 Network Security API](#-network-security-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [NetworkSecurityManager](#networksecuritymanager)
+  - [SSLPinningManager](#sslpinningmanager)
+- [API Reference](#api-reference)
+  - [SSL/TLS Pinning](#ssltls-pinning)
+  - [API Security](#api-security)
+  - [Certificate Management](#certificate-management)
+- [Security Features](#security-features)
+  - [Threat Detection](#threat-detection)
+  - [Rate Limiting](#rate-limiting)
+- [Best Practices](#best-practices)
+  - [Network Security Best Practices](#network-security-best-practices)
+  - [Implementation Guidelines](#implementation-guidelines)
+- [Error Handling](#error-handling)
+  - [Network Security Error Handling](#network-security-error-handling)
+- [Testing](#testing)
+  - [Network Security Testing](#network-security-testing)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Network Security API provides comprehensive network security features including SSL/TLS pinning, certificate validation, secure API communication, and threat detection for network traffic.

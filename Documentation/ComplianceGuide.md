@@ -1,5 +1,36 @@
 # 📋 Compliance Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [📋 Compliance Guide](#-compliance-guide)
+- [Overview](#overview)
+- [GDPR Compliance](#gdpr-compliance)
+  - [Data Protection Requirements](#data-protection-requirements)
+  - [Implementation](#implementation)
+  - [Consent Management](#consent-management)
+  - [Data Access Rights](#data-access-rights)
+- [HIPAA Compliance](#hipaa-compliance)
+  - [Healthcare Data Protection](#healthcare-data-protection)
+  - [Implementation](#implementation)
+  - [ePHI Protection](#ephi-protection)
+  - [Access Controls](#access-controls)
+- [Audit Logging](#audit-logging)
+  - [Comprehensive Audit Trail](#comprehensive-audit-trail)
+  - [Compliance Reporting](#compliance-reporting)
+- [Data Classification](#data-classification)
+  - [Sensitive Data Handling](#sensitive-data-handling)
+- [Privacy by Design](#privacy-by-design)
+  - [Built-in Privacy Features](#built-in-privacy-features)
+  - [Data Minimization](#data-minimization)
+- [Best Practices](#best-practices)
+  - [GDPR Best Practices](#gdpr-best-practices)
+  - [HIPAA Best Practices](#hipaa-best-practices)
+  - [General Compliance Best Practices](#general-compliance-best-practices)
+- [Testing Compliance](#testing-compliance)
+  - [Compliance Testing](#compliance-testing)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides comprehensive instructions for implementing GDPR and HIPAA compliance features in your iOS applications using the iOS Security Framework Pro.

@@ -1,5 +1,19 @@
 # Encryption Examples
 
+<!-- TOC START -->
+## Table of Contents
+- [Encryption Examples](#encryption-examples)
+- [Examples](#examples)
+- [Encryption Features](#encryption-features)
+  - [AES Encryption](#aes-encryption)
+  - [ChaCha20 Encryption](#chacha20-encryption)
+  - [RSA Encryption](#rsa-encryption)
+  - [Hybrid Encryption](#hybrid-encryption)
+- [Requirements](#requirements)
+- [Usage](#usage)
+<!-- TOC END -->
+
+
 This directory contains comprehensive examples demonstrating iOS Security Framework Pro encryption features.
 
 ## Examples

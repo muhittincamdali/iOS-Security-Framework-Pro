@@ -1,5 +1,27 @@
 # Getting Started Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Getting Started Guide](#getting-started-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+  - [Swift Package Manager](#swift-package-manager)
+  - [CocoaPods](#cocoapods)
+- [Quick Start](#quick-start)
+  - [1. Import the Framework](#1-import-the-framework)
+  - [2. Initialize Security Manager](#2-initialize-security-manager)
+  - [3. Configure Security Settings](#3-configure-security-settings)
+  - [4. Start Security Services](#4-start-security-services)
+- [Basic Usage](#basic-usage)
+  - [Biometric Authentication](#biometric-authentication)
+  - [Keychain Management](#keychain-management)
+  - [Encryption](#encryption)
+- [Next Steps](#next-steps)
+- [Support](#support)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide will help you get started with the iOS Security Framework Pro. You'll learn how to integrate the framework into your iOS project and begin implementing enterprise-grade security features.

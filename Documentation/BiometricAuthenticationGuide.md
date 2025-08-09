@@ -1,5 +1,36 @@
 # 🔐 Biometric Authentication Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [🔐 Biometric Authentication Guide](#-biometric-authentication-guide)
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Setup Instructions](#setup-instructions)
+  - [1. Import the Framework](#1-import-the-framework)
+  - [2. Initialize Biometric Authenticator](#2-initialize-biometric-authenticator)
+  - [3. Check Availability](#3-check-availability)
+- [Basic Implementation](#basic-implementation)
+  - [Simple Authentication](#simple-authentication)
+  - [Advanced Implementation](#advanced-implementation)
+- [Security Levels](#security-levels)
+  - [Configuring Security Levels](#configuring-security-levels)
+- [Error Handling](#error-handling)
+  - [Comprehensive Error Handling](#comprehensive-error-handling)
+- [Accessibility Support](#accessibility-support)
+  - [Enabling Accessibility Features](#enabling-accessibility-features)
+- [Best Practices](#best-practices)
+  - [Security Best Practices](#security-best-practices)
+  - [User Experience Best Practices](#user-experience-best-practices)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+- [Testing](#testing)
+  - [Testing Biometric Authentication](#testing-biometric-authentication)
+- [Integration Examples](#integration-examples)
+  - [Banking App Integration](#banking-app-integration)
+  - [Healthcare App Integration](#healthcare-app-integration)
+<!-- TOC END -->
+
+
 ## Introduction
 
 This guide provides comprehensive instructions for implementing biometric authentication in your iOS applications using the iOS Security Framework Pro.

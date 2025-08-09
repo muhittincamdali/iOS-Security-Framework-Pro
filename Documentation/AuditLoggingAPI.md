@@ -1,5 +1,22 @@
 # 🔐 Audit Logging API
 
+<!-- TOC START -->
+## Table of Contents
+- [🔐 Audit Logging API](#-audit-logging-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [AuditLoggingManager](#auditloggingmanager)
+  - [Configuration](#configuration)
+- [API Reference](#api-reference)
+  - [Event Logging](#event-logging)
+  - [Compliance Reporting](#compliance-reporting)
+  - [Log Export](#log-export)
+- [Event Types](#event-types)
+- [Severity Levels](#severity-levels)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Audit Logging API provides comprehensive logging capabilities for security events, compliance reporting, and forensic analysis. This API enables real-time event tracking, secure log storage, and automated compliance reporting.
