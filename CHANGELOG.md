@@ -73,4 +73,60 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-> This changelog follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and adheres to [Semantic Versioning](https://semver.org/). 
+> This changelog follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and adheres to [Semantic Versioning](https://semver.org/). # iOS-Security-Framework-Pro - Update 1
+# iOS-Security-Framework-Pro - Update 2
+# iOS-Security-Framework-Pro - Update 3
+# iOS-Security-Framework-Pro - Update 4
+# iOS-Security-Framework-Pro - Update 5
+# iOS-Security-Framework-Pro - Update 6
+# iOS-Security-Framework-Pro - Update 7
+# iOS-Security-Framework-Pro - Update 8
+# iOS-Security-Framework-Pro - Update 9
+# iOS-Security-Framework-Pro - Update 10
+# iOS-Security-Framework-Pro - Update 11
+# iOS-Security-Framework-Pro - Update 12
+# iOS-Security-Framework-Pro - Update 13
+# iOS-Security-Framework-Pro - Update 14
+# iOS-Security-Framework-Pro - Update 15
+# iOS-Security-Framework-Pro - Update 16
+# iOS-Security-Framework-Pro - Update 17
+# iOS-Security-Framework-Pro - Update 18
+# iOS-Security-Framework-Pro - Update 19
+# iOS-Security-Framework-Pro - Update 20
+# iOS-Security-Framework-Pro - Update 21
+# iOS-Security-Framework-Pro - Update 22
+# iOS-Security-Framework-Pro - Update 23
+# iOS-Security-Framework-Pro - Update 24
+# iOS-Security-Framework-Pro - Update 25
+# iOS-Security-Framework-Pro - Update 26
+# iOS-Security-Framework-Pro - Update 27
+# iOS-Security-Framework-Pro - Update 28
+# iOS-Security-Framework-Pro - Update 29
+# iOS-Security-Framework-Pro - Update 30
+# iOS-Security-Framework-Pro - Update 31
+# iOS-Security-Framework-Pro - Update 32
+# iOS-Security-Framework-Pro - Update 33
+# iOS-Security-Framework-Pro - Update 34
+# iOS-Security-Framework-Pro - Update 35
+# iOS-Security-Framework-Pro - Update 36
+# iOS-Security-Framework-Pro - Update 37
+# iOS-Security-Framework-Pro - Update 38
+# iOS-Security-Framework-Pro - Update 39
+# iOS-Security-Framework-Pro - Update 40
+# iOS-Security-Framework-Pro - Update 41
+# iOS-Security-Framework-Pro - Update 42
+# iOS-Security-Framework-Pro - Update 43
+# iOS-Security-Framework-Pro - Update 44
+# iOS-Security-Framework-Pro - Update 45
+# iOS-Security-Framework-Pro - Update 46
+# iOS-Security-Framework-Pro - Update 47
+# iOS-Security-Framework-Pro - Update 48
+# iOS-Security-Framework-Pro - Update 49
+# iOS-Security-Framework-Pro - Update 50
+# iOS-Security-Framework-Pro - Update 51
+# iOS-Security-Framework-Pro - Update 52
+# iOS-Security-Framework-Pro - Update 53
+# iOS-Security-Framework-Pro - Update 54
+# iOS-Security-Framework-Pro - Update 55
+# iOS-Security-Framework-Pro - Update 56
+# iOS-Security-Framework-Pro - Update 57
