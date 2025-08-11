@@ -990,3 +990,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **💫 Join our amazing community of developers!**
 
 </div> 
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=muhittincamdali/iOS-Security-Framework-Pro&type=Date)](https://star-history.com/#muhittincamdali/iOS-Security-Framework-Pro&Date)
+
