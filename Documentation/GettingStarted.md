@@ -1,130 +1,35 @@
-# Getting Started Guide
+# 🚀 Getting Started
 
-<!-- TOC START -->
-## Table of Contents
-- [Getting Started Guide](#getting-started-guide)
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-  - [Swift Package Manager](#swift-package-manager)
-  - [CocoaPods](#cocoapods)
-- [Quick Start](#quick-start)
-  - [1. Import the Framework](#1-import-the-framework)
-  - [2. Initialize Security Manager](#2-initialize-security-manager)
-  - [3. Configure Security Settings](#3-configure-security-settings)
-  - [4. Start Security Services](#4-start-security-services)
-- [Basic Usage](#basic-usage)
-  - [Biometric Authentication](#biometric-authentication)
-  - [Keychain Management](#keychain-management)
-  - [Encryption](#encryption)
-- [Next Steps](#next-steps)
-- [Support](#support)
-<!-- TOC END -->
-
-
-## Overview
-
-This guide will help you get started with the iOS Security Framework Pro. You'll learn how to integrate the framework into your iOS project and begin implementing enterprise-grade security features.
+Welcome to our world-class iOS development framework! This guide will help you get started quickly and efficiently.
 
 ## Prerequisites
 
 - iOS 15.0+
-- Xcode 15.0+
+- Xcode 14.0+
 - Swift 5.9+
-- Basic understanding of iOS development and security concepts
+- macOS 12.0+
 
 ## Installation
 
 ### Swift Package Manager
 
-Add the framework to your project:
+Add the following dependency to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/muhittincamdali/iOS-Security-Framework-Pro.git", from: "1.0.0")
+    .package(url: "https://github.com/muhittincamdali/REPO_NAME.git", from: "1.0.0")
 ]
 ```
 
-### CocoaPods
+## Basic Setup
 
-Add to your Podfile:
-
-```ruby
-pod 'SecurityFrameworkPro', '~> 1.0.0'
-```
-
-## Quick Start
-
-### 1. Import the Framework
-
-```swift
-import SecurityFrameworkPro
-```
-
-### 2. Initialize Security Manager
-
-```swift
-let securityManager = SecurityManager()
-securityManager.enableBiometricAuth = true
-securityManager.enableKeychainStorage = true
-securityManager.enableEncryption = true
-```
-
-### 3. Configure Security Settings
-
-```swift
-let securityConfig = SecurityConfiguration()
-securityConfig.biometricType = .faceID
-securityConfig.encryptionAlgorithm = .aes256
-securityConfig.keychainAccessibility = .whenUnlocked
-```
-
-### 4. Start Security Services
-
-```swift
-try securityManager.startServices(configuration: securityConfig)
-```
-
-## Basic Usage
-
-### Biometric Authentication
-
-```swift
-let biometricAuth = BiometricAuthenticator()
-let authResult = try await biometricAuth.authenticate(
-    reason: "Access secure data",
-    policy: .deviceOwnerAuthenticationWithBiometrics
-)
-```
-
-### Keychain Management
-
-```swift
-let keychainManager = KeychainManager()
-try keychainManager.store(
-    data: secretData,
-    forKey: "user_secret",
-    accessibility: .whenUnlocked
-)
-```
-
-### Encryption
-
-```swift
-let encryptionManager = EncryptionManager()
-let encryptedData = try encryptionManager.encrypt(
-    data: plaintextData,
-    using: encryptionKey
-)
-```
+1. Import the framework
+2. Initialize the main component
+3. Configure your settings
+4. Start using the features
 
 ## Next Steps
 
-- Read the [Security Best Practices](SecurityBestPractices.md)
-- Explore [Biometric Authentication](BiometricAuthenticationGuide.md)
-- Learn about [Encryption](EncryptionGuide.md)
-- Check out the [Examples](../Examples/) directory
-
-## Support
-
-For questions and support, please open an issue on GitHub or check the documentation. 
+- Check out our [Examples](Examples/) folder
+- Read the [API Documentation](API.md)
+- Explore [Advanced Usage](AdvancedUsage.md)
