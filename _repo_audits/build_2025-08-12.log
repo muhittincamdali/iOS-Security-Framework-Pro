@@ -1,0 +1,6 @@
+warning: 'ios-security-framework-pro': Invalid Resource 'Resources': File not found.
+warning: 'ios-security-framework-pro': found 1 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/iOS-Security-Framework-Pro.swift
+Building for debugging...
+error: couldn't build /Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager.swift.o because of multiple producers: Compiling Swift Module 'SecurityFrameworkPro' (15 sources), Compiling Swift Module 'SecurityFrameworkPro' (15 sources)
+error: couldn't build /Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager.swift.o because of multiple producers: Compiling Swift Module 'SecurityFrameworkPro' (15 sources), Compiling Swift Module 'SecurityFrameworkPro' (15 sources)
