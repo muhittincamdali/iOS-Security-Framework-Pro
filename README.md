@@ -983,8 +983,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 Stargazers Community
 
-[![Stargazers repo roster for @muhittincamdali/iOS-Security-Framework-Pro](https://starchart.cc/muhittincamdali/iOS-Security-Framework-Pro.svg)](https://github.com/muhittincamdali/iOS-Security-Framework-Pro/stargazers)
-
 **⭐ Star this repository if it helped you!**
 
 **💫 Join our amazing community of developers!**
