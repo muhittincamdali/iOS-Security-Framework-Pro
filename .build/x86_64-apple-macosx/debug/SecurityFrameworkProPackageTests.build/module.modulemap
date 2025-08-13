@@ -1,0 +1,4 @@
+module SecurityFrameworkProPackageTests {
+    header "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProPackageTests.build/SecurityFrameworkProPackageTests-Swift.h"
+    requires objc
+}

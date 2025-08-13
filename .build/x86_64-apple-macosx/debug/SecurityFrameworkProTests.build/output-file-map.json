@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/master.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Tests/SecurityTests/BiometricAuthenticatorTests.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/BiometricAuthenticatorTests.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/BiometricAuthenticatorTests.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/BiometricAuthenticatorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/BiometricAuthenticatorTests.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Tests/SecurityTests/EncryptionManagerTests.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/EncryptionManagerTests.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/EncryptionManagerTests.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/EncryptionManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/EncryptionManagerTests.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Tests/SecurityTests/KeychainManagerTests.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/KeychainManagerTests.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/KeychainManagerTests.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/KeychainManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/KeychainManagerTests.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Tests/UITests/SecurityUITests.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityUITests.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityUITests.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityUITests~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityUITests.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Tests/UnitTests/SecurityCoreTests.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityCoreTests.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityCoreTests.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityCoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityCoreTests.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Tests/UnitTests/SecurityManagerTests.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityManagerTests.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityManagerTests.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProTests.build/SecurityManagerTests.swiftdeps"
+  }
+}

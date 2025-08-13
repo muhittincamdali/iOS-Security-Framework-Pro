@@ -1,0 +1,95 @@
+{
+  "": {
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/master.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Core/KeychainManager.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Core/MainFramework.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/MainFramework.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/MainFramework.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/MainFramework~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/MainFramework.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Core/SecurityCore.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityCore.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityCore.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityCore~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityCore.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Core/SecurityManager.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityManager.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityManager.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityManager.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Encryption/EncryptionManager.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Network/NetworkSecurityManager.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/NetworkSecurityManager.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/NetworkSecurityManager.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/NetworkSecurityManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/NetworkSecurityManager.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/AuditLogger.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/AuditLogger.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/AuditLogger.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/AuditLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/AuditLogger.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/BiometricAuthenticator.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/BiometricAuthenticator.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/BiometricAuthenticator.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/BiometricAuthenticator~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/BiometricAuthenticator.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/EncryptionManager.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/EncryptionManager.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/KeychainManager.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/KeychainManager.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/SecureStorage.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecureStorage.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecureStorage.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecureStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecureStorage.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/SecurityAuditLogger.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityAuditLogger.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityAuditLogger.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityAuditLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityAuditLogger.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/SecurityValidator.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityValidator.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityValidator.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityValidator~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/SecurityValidator.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/ThreatDetectionEngine.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/ThreatDetectionEngine.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/ThreatDetectionEngine.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/ThreatDetectionEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/ThreatDetectionEngine.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/Sources/Security/ThreatDetector.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/ThreatDetector.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/ThreatDetector.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/ThreatDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkPro.build/ThreatDetector.swiftdeps"
+  }
+}
