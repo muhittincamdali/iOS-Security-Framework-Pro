@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProPackageTests.build/master.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProPackageTests.build/runner.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Security-Framework-Pro/.build/x86_64-apple-macosx/debug/SecurityFrameworkProPackageTests.build/runner.swiftdeps"
+  }
+}
